@@ -4,12 +4,20 @@
 ### Junior Frontend developer 👩🏼‍💻
 Estudié diseño gráfico, he trabajado como administrativa y me estoy autoformando en tecnologías web frontend.
 
-## :cyclone: Aficiones
-1. Nadar
-2. Escuchar música
-3. Salir a caminar por la Naturaleza
-4. Leer 
+## Técnologías
 
+## Herramientas
+
+## Experiencia 
+
+## :cyclone: Aficiones
+🏊‍♀️ Nadar
+:notes: Escuchar música, mejor en vivo
+🌲 Salir a caminar por la Naturaleza
+📗 Leer 
+✈️ Viajar
+🖼 Visitar museos
+🗣 Ir a eventos de divulgación científica o técnicos
 
 
 
