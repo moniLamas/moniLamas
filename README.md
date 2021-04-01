@@ -9,6 +9,7 @@ Estudié diseño gráfico, he trabajado como administrativa y me estoy autoforma
 ## Herramientas
 
 ## Experiencia 
+He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.
 
 ## :cyclone: Aficiones
 🏊‍♀️ Nadar
