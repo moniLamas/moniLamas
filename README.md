@@ -5,10 +5,10 @@
 Estudié diseño gráfico, he trabajado como administrativa y me estoy autoformando en tecnologías web frontend. Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 
 ### :bulb:  Técnologías
-
+HTML, CSS, JavaScript, WorkPress.
 
 ### :pushpin:  Herramientas
-
+Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
 
 ### :bookmark:  Experiencia 
 > He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.
