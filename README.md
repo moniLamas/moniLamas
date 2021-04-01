@@ -4,13 +4,13 @@
 ### Junior Frontend developer 👩🏼‍💻
 Estudié diseño gráfico, he trabajado como administrativa y me estoy autoformando en tecnologías web frontend. Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 
-### Técnologías
+### :bulb: Técnologías
 
 
-### Herramientas
+### :pushpin: Herramientas
 
 
-### Experiencia 
+### :bookmark: Experiencia 
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.
 
 ### :cyclone: Aficiones
