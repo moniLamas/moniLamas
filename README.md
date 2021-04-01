@@ -11,7 +11,7 @@ Estudié diseño gráfico, he trabajado como administrativa y me estoy autoforma
 
 
 ### :bookmark:  Experiencia 
-He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.
+> He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.
 
 ### :cyclone:  Aficiones
 🏊‍♀️ Nadar.
