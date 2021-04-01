@@ -11,7 +11,7 @@ Estudié diseño gráfico, he trabajado como administrativa y me estoy autoforma
 ## Experiencia 
 
 ## :cyclone: Aficiones
-* 🏊‍♀️ Nadar
+... 🏊‍♀️ Nadar
 * :notes: Escuchar música, mejor en vivo
 * 🌲 Salir a caminar por la Naturaleza
 * 📗 Leer 
