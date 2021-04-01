@@ -1,4 +1,4 @@
-### Hola 👋 soy [Moni Lamas](https://monilamas.netlify.app/)
+# Hola 👋 soy [Moni Lamas](https://monilamas.netlify.app/), desarrolladora frontend junior.
 
 
 **moniLamas/moniLamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 
-/!-- LINK S--/
-[website]: https://monilamas.netlify.app/
+
