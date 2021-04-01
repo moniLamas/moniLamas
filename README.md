@@ -1,4 +1,4 @@
-### Hola 👋 soy [Moni Lamas][website]
+### Hola 👋 soy [Moni Lamas](https://monilamas.netlify.app/)
 
 
 **moniLamas/moniLamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
-/!--LINKS--/
+/!-- LINK S--/
 [website]: https://monilamas.netlify.app/
