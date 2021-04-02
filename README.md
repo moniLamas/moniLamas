@@ -14,17 +14,11 @@ Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.<br>
 Estos son algunos de los proyectos en los que trabajé:
 >[Pat Educadora Canina](https://pateducadoracanina.com/)
->
 >[La Ruta Roja](https://www.larutaroja.com/)
->
 >[Teepee](https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/)
->
 >[Susana Urbano Interiors](https://www.susanaurbanointeriors.com/)
->
 >[Ela Interiorismo](https://www.elainteriorismo.com/)
->
 >[For a better world](https://www.forabetterworld.es/)
->
 >[Gesgal](https://www.gesgal.es/)
 
 ### :cyclone: &nbsp;Aficiones
