@@ -7,10 +7,10 @@ Estudié diseño gráfico, he trabajado como administrativa y me estoy autoforma
 ### :bulb: &nbsp;Técnologías
 HTML, CSS, JavaScript, WorkPress.
 
-### :pushpin:&#160;Herramientas
+### :pushpin: &nbsp;Herramientas
 Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
 
-### :bookmark:&#160;Experiencia 
+### :bookmark: &nbsp;Experiencia 
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.<br>
 Estos son algunos de los proyectos en los que trabajé:
 >[Pat Educadora Canina](https://pateducadoracanina.com/)
@@ -27,14 +27,14 @@ Estos son algunos de los proyectos en los que trabajé:
 >
 >[Gesgal](https://www.gesgal.es/)
 
-### :cyclone:&#160;Aficiones
-🏊‍♀️ Nadar<br>
-:notes: Escuchar música, mejor en vivo<br>
-🌲 Salir a caminar por la Naturaleza<br>
-📗 Leer<br>
-✈️ Viajar<br>
-🖼 Visitar museos<br>
-🗣 Ir a eventos de divulgación científica o técnicos<br>
+### :cyclone: &nbsp;Aficiones
+🏊‍♀️ &nbsp;Nadar<br>
+:notes: &nbsp;Escuchar música, mejor en vivo<br>
+🌲 &nbsp;Salir a caminar por la Naturaleza<br>
+📗 &nbsp;Leer<br>
+✈️ &nbsp;Viajar<br>
+🖼 &nbsp;Visitar museos<br>
+🗣 &nbsp;Ir a eventos de divulgación científica o técnicos<br>
 
 
 
