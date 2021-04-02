@@ -4,13 +4,13 @@
 ### Junior Frontend developer 👩🏼‍💻
 Estudié diseño gráfico, he trabajado como administrativa y me estoy autoformando en tecnologías web frontend. Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 
-### :bulb:Técnologías
+### :bulb:&#160;Técnologías
 HTML, CSS, JavaScript, WorkPress.
 
-### :pushpin:Herramientas
+### :pushpin:&#160;Herramientas
 Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
 
-### :bookmark:Experiencia 
+### :bookmark:&#160;Experiencia 
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.<br>
 Estos son algunos de los proyectos en los que trabajé:
 >[Pat Educadora Canina](https://pateducadoracanina.com/)
@@ -27,7 +27,7 @@ Estos son algunos de los proyectos en los que trabajé:
 >
 >[Gesgal](https://www.gesgal.es/)
 
-### :cyclone:Aficiones
+### :cyclone:&#160;Aficiones
 🏊‍♀️ Nadar<br>
 :notes: Escuchar música, mejor en vivo<br>
 🌲 Salir a caminar por la Naturaleza<br>
