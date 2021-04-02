@@ -7,13 +7,13 @@
 ### :bulb:&#32;Técnologías
 > HTML, CSS, JavaScript, WorkPress.
 
-### :pushpin:  Herramientas
+### :pushpin:&#32;Herramientas
 > Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
 
-### :bookmark:  Experiencia 
+### :bookmark:&#32;Experiencia 
 > He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.
 
-### :cyclone:  Aficiones
+### :cyclone:&#32;Aficiones
 🏊‍♀️ Nadar.<br>
 :notes: Escuchar música, mejor en vivo.<br>
 🌲 Salir a caminar por la Naturaleza.<br>
