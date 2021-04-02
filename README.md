@@ -38,6 +38,7 @@ Estos son algunos de los proyectos en los que trabajé:
 
 ### :mega: &nbsp;Contacto
 ✉️ &nbsp;[mlamasrial@gmail.com](mailto:mlamasrial@gmail.com)<br>
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMoniMonipeny)
 
 
 
