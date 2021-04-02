@@ -37,9 +37,9 @@ Estos son algunos de los proyectos en los que trabajé:
 🗣 &nbsp;Asistir a eventos de divulgación científica o técnicos<br>
 
 ### :mega: &nbsp;Contacto
-✉️ &nbsp;[mlamasrial@gmail.com](mailto:mlamasrial@gmail.com)<br>
-<a href="https://www.linkedin.com/in/mónica-lamas/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/1a7d6cae9394f845e35ba93a490943bc6c5dcd4303707d7bc33f58da7fd43821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMoniMonipeny">
+<a href="https://www.linkedin.com/in/mónica-lamas/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/1a7d6cae9394f845e35ba93a490943bc6c5dcd4303707d7bc33f58da7fd43821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a><br>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMoniMonipeny"><br>
+✉️ &nbsp;[mlamasrial@gmail.com](mailto:mlamasrial@gmail.com)
 
 
 
