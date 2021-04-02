@@ -29,12 +29,12 @@ Estos son algunos de los proyectos en los que trabajé:
 
 ### :cyclone: &nbsp;Aficiones
 🏊‍♀️ &nbsp;Nadar<br>
-:notes: &nbsp;Escuchar música, mejor en vivo<br>
+:notes: &nbsp;Escuchar música, mucho mejor si es en vivo<br>
 🌲 &nbsp;Senderismo<br>
 📗 &nbsp;Leer<br>
 ✈️ &nbsp;Viajar<br>
 🖼 &nbsp;Visitar museos<br>
-🗣 &nbsp;Ir a eventos de divulgación científica o técnicos<br>
+🗣 &nbsp;Asistir a eventos de divulgación científica o técnicos<br>
 
 ### :mega: &nbsp;Contacto
 ✉️ &nbsp;[mlamasrial@gmail.com](mailto:mlamasrial@gmail.com)<br>
