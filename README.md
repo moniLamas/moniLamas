@@ -2,25 +2,27 @@
 
 
 ### Junior Frontend developer 👩🏼‍💻
-> Estudié diseño gráfico, he trabajado como administrativa y me estoy autoformando en tecnologías web frontend. Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
+Estudié diseño gráfico, he trabajado como administrativa y me estoy autoformando en tecnologías web frontend. Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 
-### :bulb:&#32;Técnologías
-> HTML, CSS, JavaScript, WorkPress.
+### :bulb:Técnologías
+HTML, CSS, JavaScript, WorkPress.
 
-### :pushpin:&#32;Herramientas
-> Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
+### :pushpin:Herramientas
+Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
 
-### :bookmark:&#32;Experiencia 
-> He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.
+### :bookmark:Experiencia 
+He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.<br>
+Estos son algunos de los proyectos en los que trabajé:
+> [Pat Educadora Canina](https://pateducadoracanina.com/)
 
-### :cyclone:&#32;Aficiones
-🏊‍♀️ Nadar.<br>
-:notes: Escuchar música, mejor en vivo.<br>
-🌲 Salir a caminar por la Naturaleza.<br>
-📗 Leer. <br>
-✈️ Viajar.<br>
-🖼 Visitar museos.<br>
-🗣 Ir a eventos de divulgación científica o técnicos.<br>
+### :cyclone:Aficiones
+🏊‍♀️ Nadar<br>
+:notes: Escuchar música, mejor en vivo<br>
+🌲 Salir a caminar por la Naturaleza<br>
+📗 Leer<br>
+✈️ Viajar<br>
+🖼 Visitar museos<br>
+🗣 Ir a eventos de divulgación científica o técnicos<br>
 
 
 
