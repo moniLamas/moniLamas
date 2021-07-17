@@ -8,7 +8,7 @@ Estudié diseño gráfico, he trabajado como administrativa y me estoy autoforma
 HTML, CSS, JavaScript, WordPress.
 
 ### :pushpin: &nbsp;Herramientas
-Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
+Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign, Canva.
 
 ### :bookmark: &nbsp;Experiencia 
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress, con Divi y CSS, además de gestionar una de las cuentas de Instagram de la empresa.<br>
