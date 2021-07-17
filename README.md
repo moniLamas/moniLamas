@@ -11,7 +11,7 @@ HTML, CSS, JavaScript, WordPress.
 Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign.
 
 ### :bookmark: &nbsp;Experiencia 
-He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa.<br>
+He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress, con Divi y CSS, además de gestionar una de las cuentas de Instagram de la empresa.<br>
 Estos son algunos de los proyectos en los que trabajé:
 >[Pat Educadora Canina](https://pateducadoracanina.com/)
 >
