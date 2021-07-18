@@ -2,7 +2,8 @@
 
 
 ### Junior Frontend developer 👩🏼‍💻
-Estudié diseño gráfico, he trabajado como administrativa y me estoy autoformando en tecnologías web frontend. Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
+Estudié diseño gráfico y he trabajado como administrativa. Con 37 años comencé a interesarme en la comunidad tech de Madrid acudiendo a eventos donde descubrí que era un mundo al que quería pertenecer. Comencé autoformandome con cursos online y ahora siendo alumna de ADALAB estoy mejorando mi formación y preparo mi incorporación al sector. <br>
+Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 
 ### :bulb: &nbsp;Técnologías
 HTML, CSS, JavaScript, WordPress.
