@@ -30,11 +30,11 @@ Estos son algunos de los proyectos en los que trabajé:
 
 ### 🚀 &nbsp;Aficiones
 🏊‍♀️ &nbsp;Nadar<br>
-:notes: &nbsp;Escuchar música, mucho mejor si es en vivo<br>
+🎸 &nbsp;Escuchar música, mucho mejor si es en vivo<br>
 🌲 &nbsp;Senderismo<br>
 📗 &nbsp;Leer<br>
 ✈️ &nbsp;Viajar<br>
-🖼 &nbsp;Visitar museos<br>
+:sculpture: &nbsp;Visitar museos<br>
 🗣 &nbsp;Asistir a eventos de divulgación científica o técnicos<br>
 
 ### :mega: &nbsp;Contacto
