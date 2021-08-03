@@ -8,7 +8,7 @@ Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única e
 ### :bulb: &nbsp;Técnologías
 HTML, CSS, SASS, JavaScript, WordPress.
 
-### :pushpin: &nbsp;Herramientas
+### :atom: &nbsp;Herramientas
 Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign, Canva.
 
 ### :bookmark: &nbsp;Experiencia 
@@ -28,7 +28,7 @@ Estos son algunos de los proyectos en los que trabajé:
 >
 >[Gesgal](https://www.gesgal.es/)
 
-### :cyclone: &nbsp;Aficiones
+### 🚀 &nbsp;Aficiones
 🏊‍♀️ &nbsp;Nadar<br>
 :notes: &nbsp;Escuchar música, mucho mejor si es en vivo<br>
 🌲 &nbsp;Senderismo<br>
