@@ -34,7 +34,7 @@ Estos son algunos de los proyectos en los que trabajé:
 🌲 &nbsp;Senderismo<br>
 📗 &nbsp;Leer<br>
 ✈️ &nbsp;Viajar<br>
-:sculpture: &nbsp;Visitar museos<br>
+🖼️ &nbsp;Visitar museos<br>
 🗣 &nbsp;Asistir a eventos de divulgación científica o técnicos<br>
 
 ### :mega: &nbsp;Contacto
