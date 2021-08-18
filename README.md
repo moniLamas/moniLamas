@@ -10,6 +10,7 @@ HTML, CSS, SASS, JavaScript, WordPress.
 
 ### :atom: &nbsp;Herramientas
 Visual Studio Code, Git, GitHub, PhotoShop, Illustrator, InDesign, Canva.
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ### :bookmark: &nbsp;Experiencia 
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress, con Divi y CSS, además de gestionar una de las cuentas de Instagram de uno de los productos de la empresa.<br>
