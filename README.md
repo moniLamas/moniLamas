@@ -56,7 +56,7 @@ Estos son algunos de los proyectos en los que trabajé:
 
 ✉️ &nbsp;[mlamasrial@gmail.com](mailto:mlamasrial@gmail.com)
 
-![Profile views](https://github.com/[moniLamas])
+![Profile views](https://github.com/moniLamas)
 
 
 
