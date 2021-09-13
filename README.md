@@ -55,10 +55,3 @@ Estos son algunos de los proyectos en los que trabajé:
 <a href="https://www.linkedin.com/in/mónica-lamas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mónica-lamas/" height="25" width="35" /></a>
 
 ✉️ &nbsp;[mlamasrial@gmail.com](mailto:mlamasrial@gmail.com)
-
-![Profile views](https://github.com/moniLamas)
-
-
-
-
-
