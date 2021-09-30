@@ -28,7 +28,6 @@ Estos son algunos de los proyectos en los que trabajé:
 >[Pat Educadora Canina](https://pateducadoracanina.com/)
 >
 >[La Ruta Roja](https://www.larutaroja.com/)
-  <a href="https://www.larutaroja.com/" target="_blank">La Ruta Roja</a>
 >
 >[Teepee](https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/)
 >
