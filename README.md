@@ -2,7 +2,7 @@
 
 
 ### Junior Frontend developer 👩🏼‍💻
-Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única experiencia en diseño fueron las prácticas, siempre he seguido interesada y actualizada, por lo cual he desarrollado gusto estético y cuidado en los detalles. Empecé a interesarme en la comunidad tech de Madrid, acudiendo a eventos descubrí que era un mundo al que quería pertenecer. Comencé con autoformación en cursos online y ahora siendo alumna de ADALAB estoy mejorando mis capacidades y preparo mi incorporación al sector. <br>
+Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única experiencia en diseño fueron las prácticas, siempre he seguido interesada y actualizada, por lo cual he desarrollado gusto estético y cuidado en los detalles. Empecé a interesarme en la comunidad tech de Madrid y acudiendo a eventos descubrí que era un mundo al que quería pertenecer. Primero con autoformación en cursos online y ahora siendo alumna de ADALAB estoy mejorando mis capacidades y preparo mi incorporación al sector. <br>
 >Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 >
 
