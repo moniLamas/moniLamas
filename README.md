@@ -29,6 +29,8 @@ Estos son algunos de los proyectos en los que trabajé:
 >
 >[La Ruta Roja](https://www.larutaroja.com/)
 >
+>[Talk](https://ivorysoluciones.com/integra-chatbot-en-tu-web/)
+>  
 >[Teepee](https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/)
 >
 >[Susana Urbano Interiors](https://www.susanaurbanointeriors.com/)
