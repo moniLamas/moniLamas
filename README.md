@@ -6,6 +6,7 @@ Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única e
 >Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 >
 
+
 ### 💡 &nbsp;Técnologías
 <a target="_blank" href="https://www.w3schools.com/html/default.asp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -50,10 +51,10 @@ Estos son algunos de los proyectos en los que trabajé:
 ✈️ &nbsp;Viajar<br>
 🖼️ &nbsp;Visitar museos<br>
 🗣 &nbsp;Asistir a eventos de divulgación científica o técnicos<br>
-
   
-### 📬 &nbsp;Contacto
-<a href="https://twitter.com/MoniMonipeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@monimonipeny" height="25" width="35" /></a>
-<a href="https://www.linkedin.com/in/mónica-lamas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mónica-lamas/" height="25" width="35" /></a>
 
-✉️ &nbsp;[mlamasrial@gmail.com](mailto:mlamasrial@gmail.com)
+### 📬 &nbsp;Contacto
+[![Linkedin Badge](https://img.shields.io/badge/-MónicaLamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mónica-lamas/)](https://www.linkedin.com/in/mónica-lamas/)
+[![Twitter Badge](https://img.shields.io/badge/MoniLamas-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MoniMonipeny)](https://twitter.com/MoniMonipeny)
+[![Gmail Badge](https://img.shields.io/badge/-mlamasrial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlamasrial@gmail.com)](mailto:mlamasrial@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-MoniLamas-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/moni.lamas/)](https://www.instagram.com/moni.lamas/)
