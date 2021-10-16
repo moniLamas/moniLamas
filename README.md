@@ -50,7 +50,7 @@ Estos son algunos de los proyectos en los que trabajé:
 <table>
     <td align="center">
       <a href="https://pateducadoracanina.com/">
-        <img src="./img/pateducadoracanina.png" width="150px" alt="Web de Pat educadora canina"/>
+        <img src="./img/pateducadoracanina.png" width="180px" alt="Web de Pat educadora canina"/>
         <br />
         <sub>
           <b>Pat Educadora Canina</b>
@@ -60,7 +60,7 @@ Estos son algunos de los proyectos en los que trabajé:
     </td>
 	<td align="center">
       <a href="https://www.larutaroja.com/">
-        <img src="./img/larutaroja.png" width="150px" alt="Web de La Ruta Roja"/>
+        <img src="./img/larutaroja.png" width="180px" alt="Web de La Ruta Roja"/>
         <br />
         <sub>
           <b>La Ruta Roja</b>
@@ -70,7 +70,7 @@ Estos son algunos de los proyectos en los que trabajé:
     </td>
 	<td align="center">
       <a href="https://ivorysoluciones.com/integra-chatbot-en-tu-web/">
-        <img src="./img/teepee.png" width="150px" alt="Web de Talk"/>
+        <img src="./img/teepee.png" width="180px" alt="Web de Talk"/>
         <br />
         <sub>
           <b>Talk</b>
@@ -80,7 +80,7 @@ Estos son algunos de los proyectos en los que trabajé:
     </td>
 	<td align="center">
       <a href="https://ivorysoluciones.com/integra-chatbot-en-tu-web/">
-        <img src="./img/talk.png" width="150px" alt="Web de Talk"/>
+        <img src="./img/talk.png" width="180px" alt="Web de Talk"/>
         <br />
         <sub>
           <b>Talk</b>
