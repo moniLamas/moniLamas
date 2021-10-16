@@ -88,12 +88,34 @@ Estos son algunos de los proyectos en los que trabajé:
       </a>
       <br />
     </td>
+</table>
+<table>
 	<td align="center">
       <a href="https://www.susanaurbanointeriors.com/">
         <img src="./img/susanaurbano.png" width="180px" alt="Web de Susana Urbano"/>
         <br />
         <sub>
           <b>Susana Urbano Interiors</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+	<td align="center">
+      <a href="https://www.elainteriorismo.com/">
+        <img src="./img/elainteriorismo.png" width="180px" alt="Web de Ela interiorismo"/>
+        <br />
+        <sub>
+          <b>Ela interiorismo</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+	<td align="center">
+      <a href="https://www.forabetterworld.es/">
+        <img src="./img/forabeterworld.png" width="180px" alt="Web de For a beter world"/>
+        <br />
+        <sub>
+          <b>For a beter world</b>
         </sub>
       </a>
       <br />
