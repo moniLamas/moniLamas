@@ -38,21 +38,14 @@ Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única e
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress, con Divi y CSS, además de gestionar una de las cuentas de Instagram de uno de los productos de la empresa.<br>
 Estos son algunos de los proyectos en los que trabajé:
 
-> [Pat Educadora Canina](https://pateducadoracanina.com/)
->
-> [La Ruta Roja](https://www.larutaroja.com/)
->
-> [Talk](https://ivorysoluciones.com/integra-chatbot-en-tu-web/)
->
-> [Teepee](https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/)
->
-> [Susana Urbano Interiors](https://www.susanaurbanointeriors.com/)
->
-> [Ela Interiorismo](https://www.elainteriorismo.com/)
->
-> [For a better world](https://www.forabetterworld.es/)
->
-> [Gesgal](https://www.gesgal.es/)
+<!-- [Pat Educadora Canina](https://pateducadoracanina.com/)
+[La Ruta Roja](https://www.larutaroja.com/)
+[Talk](https://ivorysoluciones.com/integra-chatbot-en-tu-web/)
+[Teepee](https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/)
+[Susana Urbano Interiors](https://www.susanaurbanointeriors.com/)
+[Ela Interiorismo](https://www.elainteriorismo.com/)
+[For a better world](https://www.forabetterworld.es/)
+[Gesgal](https://www.gesgal.es/) -->
 
 <table>
     <td align="center">
@@ -61,6 +54,16 @@ Estos son algunos de los proyectos en los que trabajé:
         <br />
         <sub>
           <b>Pat Educadora Canina</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+<td align="center">
+      <a href="https://www.larutaroja.com/">
+        <img src="./img/larutaroja.png" width="150px" alt="Web de La Ruta Roja"/>
+        <br />
+        <sub>
+          <b>La Ruta Roja</b>
         </sub>
       </a>
       <br />
