@@ -7,20 +7,24 @@ Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única e
 >
 
 
-### 💡 &nbsp;Técnologías
-<a target="_blank" href="https://www.w3schools.com/html/default.asp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://es.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-<a href="https://wordpress.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
+### ⚡️ &nbsp;Técnologías
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 
 
 ### ⚙️ &nbsp;Herramientas
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zeplin.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://www.canva.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="xd" width="40" height="40"/> </a> </p>
+![VSCode](https://img.shields.io/badge/VS-VSCode-blue)
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)
 
 
 ### 👩🏼‍💻 &nbsp;Experiencia 
@@ -54,7 +58,7 @@ Estos son algunos de los proyectos en los que trabajé:
   
 
 ### 📬 &nbsp;Contacto
-[![Linkedin Badge](https://img.shields.io/badge/-MónicaLamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mónica-lamas/)](https://www.linkedin.com/in/mónica-lamas/)
-[![Twitter Badge](https://img.shields.io/badge/MoniLamas-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MoniMonipeny)](https://twitter.com/MoniMonipeny)
-[![Gmail Badge](https://img.shields.io/badge/-mlamasrial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlamasrial@gmail.com)](mailto:mlamasrial@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-MoniLamas-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/moni.lamas/)](https://www.instagram.com/moni.lamas/)
+[![Linkedin Badge](https://img.shields.io/badge/-MónicaLamas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mónica-lamas/)](https://www.linkedin.com/in/mónica-lamas/)
+[![Twitter Badge](https://img.shields.io/badge/MoniLamas-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/MoniMonipeny)](https://twitter.com/MoniMonipeny)
+[![Gmail Badge](https://img.shields.io/badge/-mlamasrial@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mlamasrial@gmail.com)](mailto:mlamasrial@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-MoniLamas-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/moni.lamas/)](https://www.instagram.com/moni.lamas/)
