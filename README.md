@@ -58,12 +58,22 @@ Estos son algunos de los proyectos en los que trabajé:
       </a>
       <br />
     </td>
-<td align="center">
+	<td align="center">
       <a href="https://www.larutaroja.com/">
         <img src="./img/larutaroja.png" width="150px" alt="Web de La Ruta Roja"/>
         <br />
         <sub>
           <b>La Ruta Roja</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+	<td align="center">
+      <a href="https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/">
+        <img src="./img/teepee.png" width="150px" alt="Web de Teepee"/>
+        <br />
+        <sub>
+          <b>Teepee. Tecnología que soluciona problemas</b>
         </sub>
       </a>
       <br />
