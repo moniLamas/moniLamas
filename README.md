@@ -69,11 +69,21 @@ Estos son algunos de los proyectos en los que trabajé:
       <br />
     </td>
 	<td align="center">
-      <a href="https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/">
-        <img src="./img/teepee.png" width="150px" alt="Web de Teepee"/>
+      <a href="https://ivorysoluciones.com/integra-chatbot-en-tu-web/">
+        <img src="./img/teepee.png" width="150px" alt="Web de Talk"/>
         <br />
         <sub>
-          <b>Teepee. Tecnología que soluciona problemas</b>
+          <b>Talk</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+	<td align="center">
+      <a href="https://ivorysoluciones.com/integra-chatbot-en-tu-web/">
+        <img src="./img/talk.png" width="150px" alt="Web de Talk"/>
+        <br />
+        <sub>
+          <b>Talk</b>
         </sub>
       </a>
       <br />
