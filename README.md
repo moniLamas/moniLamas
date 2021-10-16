@@ -6,7 +6,7 @@ Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única e
 >Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 >
 
-### :bulb: &nbsp;Técnologías
+### 💡 &nbsp;Técnologías
 <a target="_blank" href="https://www.w3schools.com/html/default.asp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -17,12 +17,12 @@ Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única e
 <a href="https://wordpress.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
 
 
-### :atom: &nbsp;Herramientas
+### ⚙️ &nbsp;Herramientas
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zeplin.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.canva.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-### :bookmark: &nbsp;Experiencia 
+### 👩🏼‍💻 &nbsp;Experiencia 
 He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress, con Divi y CSS, además de gestionar una de las cuentas de Instagram de uno de los productos de la empresa.<br>
 Estos son algunos de los proyectos en los que trabajé:
 >[Pat Educadora Canina](https://pateducadoracanina.com/)
@@ -52,7 +52,7 @@ Estos son algunos de los proyectos en los que trabajé:
 🗣 &nbsp;Asistir a eventos de divulgación científica o técnicos<br>
 
   
-### :mega: &nbsp;Contacto
+### 📬 &nbsp;Contacto
 <a href="https://twitter.com/MoniMonipeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@monimonipeny" height="25" width="35" /></a>
 <a href="https://www.linkedin.com/in/mónica-lamas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mónica-lamas/" height="25" width="35" /></a>
 
