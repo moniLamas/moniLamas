@@ -6,7 +6,7 @@ Estudié diseño gráfico y he trabajado como administrativa. Aunque mi única e
 
 > Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
 
-### ⚡️ &nbsp;Técnologías
+### ⚡️ &nbsp;Tecnologías
 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
