@@ -120,6 +120,16 @@ Estos son algunos de los proyectos en los que trabajé:
       </a>
       <br />
     </td>
+	<td align="center">
+      <a href="https://www.gesgal.es/">
+        <img src="./img/gesgal.png" width="180px" alt="Web de Gesgal"/>
+        <br />
+        <sub>
+          <b>Gesgal</b>
+        </sub>
+      </a>
+      <br />
+    </td>
 </table>
 
 ### 🚀 &nbsp;Aficiones
