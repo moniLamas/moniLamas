@@ -69,11 +69,11 @@ Estos son algunos de los proyectos en los que trabajé:
       <br />
     </td>
 	<td align="center">
-      <a href="https://ivorysoluciones.com/integra-chatbot-en-tu-web/">
-        <img src="./img/teepee.png" width="180px" alt="Web de Talk"/>
+      <a href="https://ivorysoluciones.com/tecnologia-que-soluciona-problemas/">
+        <img src="./img/teepee.png" width="180px" alt="Web de Teepee"/>
         <br />
         <sub>
-          <b>Talk</b>
+          <b>Teepee</b>
         </sub>
       </a>
       <br />
@@ -84,6 +84,16 @@ Estos son algunos de los proyectos en los que trabajé:
         <br />
         <sub>
           <b>Talk</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+	<td align="center">
+      <a href="https://www.susanaurbanointeriors.com/">
+        <img src="./img/susanaurbano.png" width="180px" alt="Web de Susana Urbano"/>
+        <br />
+        <sub>
+          <b>Susana Urbano Interiors</b>
         </sub>
       </a>
       <br />
