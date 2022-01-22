@@ -2,8 +2,9 @@
 
 ### Junior Frontend developer 👩🏼‍💻
 
+Decidí reorientar mi carrera tras conocer la comunidad tech, acudiendo a eventos descubrí una nueva vocación. </br>
 Acabo de finalizar el bootcamp de ADALAB donde he ampliado conocimientos técnicos y habilidades profesionales. <br>
-Hace 3 años comencé a interesarme en la comunidad tech de Madrid, acudiendo a eventos donde descubrí que era un mundo al que quería pertenecer. Comencé con autoformación en cursos online y conseguí mi primer trabajo en el sector, logro del que me siento muy orgullosa. <br>
+Comencé con autoformación en cursos online y conseguí mi primer trabajo en el sector, logro del que me siento muy orgullosa. <br>
 Tengo estudios de diseño gráfico, he desempeñado trabajos de auxiliar administrativa antes de volcarme en la programación.
 
 > Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
