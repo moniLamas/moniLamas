@@ -7,7 +7,7 @@ Acabo de finalizar el bootcamp de ADALAB donde he ampliado conocimientos técnic
 Comencé con autoformación en cursos online y conseguí mi primer trabajo en el sector, logro del que me siento muy orgullosa. <br>
 Tengo estudios de diseño gráfico, he desempeñado trabajos de auxiliar administrativa antes de volcarme en la programación.
 
-> Mi vocación era maquetar libros y ahora puedo maquetar webs, que es una pasada.
+> Puedes conocerme mejor, entrevista sobre mi trayectoria y mi experiencia en Adalab, en mi intervención en el canal de twitch de Playtomic https://youtu.be/2vwEKUmhCcE?t=1396
 
 ### ⚡️ &nbsp;Tecnologías
 
