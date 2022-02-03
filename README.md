@@ -2,10 +2,11 @@
 
 ### Junior Frontend developer 👩🏼‍💻
 
-Decidí reorientar mi carrera tras conocer la comunidad tech, acudiendo a eventos descubrí una nueva vocación. </br>
+Decidí reorientar mi carrera tras conocer la comunidad tech, acudiendo a eventos descubrí una nueva vocación. <br>
 Acabo de finalizar el bootcamp de ADALAB donde he ampliado conocimientos técnicos y habilidades profesionales. <br>
 Comencé con autoformación en cursos online y conseguí mi primer trabajo en el sector, logro del que me siento muy orgullosa. <br>
-Tengo estudios de diseño gráfico, he desempeñado trabajos de auxiliar administrativa antes de volcarme en la programación.
+Tengo estudios de diseño gráfico, he desempeñado trabajos de auxiliar administrativa antes de volcarme en la programación. <br>
+Me encantaría seguir desarrollandome como Front, tengo mucho interés en las metodologías ágiles, en el diseño de interfaces y en el testing. La formación deber ser continua por lo que según vaya explorando el sector no me sorprendería que se dirija hacia otras áreas.
 
 > Puedes conocerme mejor, entrevista sobre mi trayectoria y mi experiencia en Adalab, en mi intervención en el canal de twitch de Playtomic https://youtu.be/2vwEKUmhCcE?t=1396
 
