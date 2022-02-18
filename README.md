@@ -1,6 +1,6 @@
 ## Hola 👋 soy [Moni Lamas](https://monilamas.netlify.app/)
 
-### Desarrolladora frontend 👩🏼‍💻
+### Desarrolladora front end 👩🏼‍💻
 
 Decidí reorientar mi carrera tras conocer la comunidad tech, acudiendo a eventos descubrí una nueva vocación. <br>
 Acabo de finalizar el bootcamp de ADALAB donde he ampliado conocimientos técnicos y habilidades profesionales. <br>
